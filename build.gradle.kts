@@ -34,7 +34,7 @@ dependencies {
     val konfigVersion = "1.6.10.0"
     val kotlinxSerializationVersion = "1.0.1"
     val ktBotVersion = "1.3.8"
-    val exposedVersion = "0.28.1"
+    val exposedVersion = "0.38.2"
     val postgresqlVersion = "42.2.2"
 
     implementation("com.github.kittinunf.fuel:fuel:$fuelVersion")
