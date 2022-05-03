@@ -18,7 +18,7 @@ To use this application in your telegram group, you must first complete followin
    * start a conversation with [@Botfather](https://t.me/botfather) and write `/newbot`
    * give your Bot a name, maybe a nice picture and **please mention this website in your Bot description**
 3. start the program for your telegram Bot by clicking on
-    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dit-calendar/teamup-telegram-bot/tree/master) _(you need an account but it's free)_
+    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/crc32/teamup-telegram-bot/tree/master) _(you need an account but it's free)_
    * it will build&start the program from the current source code
 4. invite the new Bot to a telegram group/channel and post `/postcalendar CalendarName Date` e.g. `/postcalendar VeKü 2020-08-26`
    * note that in a channel your bot needs permissions to post like any user
